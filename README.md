@@ -1,5 +1,5 @@
-# In-Out
-Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Valrose à Nice 
+# In&Out
+Ce projet est réalisé dans le cadre de l'UE Communication Sans Fil en Licence 1 à l’Université Côte d'Azur sur le campus Valrose.
 ![image](https://github.com/user-attachments/assets/21ad196d-6618-4d79-86a6-1f96eb619463)
 
 # Description du projet
