@@ -17,7 +17,7 @@ Après avoir trouvé ce magnifique design j'ai du prendre les mesures de chaques
 
 * Semaine 4
 
-Tout est désormais prêt, j'ai toute les mesures et le desingn que nous avons choisi je passe donc à la réalisation du modèle 3d sur TinkerCad.
+Tout est désormais prêt, j'ai toute les mesures et le design que nous avons choisi je passe donc à la réalisation du modèle 3d sur TinkerCad.
 
 * Semaine 5
 
