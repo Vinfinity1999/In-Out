@@ -8,3 +8,9 @@ Le but de ce projet est de créer un système permettant de compter le nombre de
 
 # Matériel utilisé
 Pour ce projet, nous avons utilisé une carte Arduino, un écran OLED SSD1306 et deux capteurs HC-SR04.
+
+# Photos du projet terminé
+
+![image](https://github.com/user-attachments/assets/65a8744c-3bb8-472a-bfa3-7d4f208db985)
+![image](https://github.com/user-attachments/assets/56928abb-cd35-49cc-acdd-cb4768b06819)
+![image](https://github.com/user-attachments/assets/b7110fd0-3592-4b51-8947-6936a1ad084e)
