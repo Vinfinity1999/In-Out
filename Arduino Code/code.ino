@@ -19,7 +19,7 @@ float distanceInterieur, distanceExterieur;
 int presence = 0;
 unsigned long dernierPassageExterieur = 0;
 unsigned long dernierPassageInterieur = 0;
-const unsigned long delaiMax = 1000; // 1 seconde
+const unsigned long delaiMax = 1200; // 1,2 s
 
 void setup() {
   // Initialisation série
@@ -88,21 +88,21 @@ void loop() {
   distanceExterieur = mesureDistance(trigPinExterieur, echoPinExterieur);
 
   // Logique de détection de présence
-  if (distanceExterieur < 60) {
+  if (distanceExterieur < 40) {
     dernierPassageExterieur = millis();
   }
 
-  if (distanceInterieur < 60 && dernierPassageExterieur > 0 && 
+  if (distanceInterieur < 40 && dernierPassageExterieur > 0 && 
       (millis() - dernierPassageExterieur) < delaiMax) {
     presence++;
     dernierPassageExterieur = 0;
   }
 
-  if (distanceInterieur < 60) {
+  if (distanceInterieur < 40) {
     dernierPassageInterieur = millis();
   }
 
-  if (distanceExterieur < 60 && dernierPassageInterieur > 0 && 
+  if (distanceExterieur < 40 && dernierPassageInterieur > 0 && 
       (millis() - dernierPassageInterieur) < delaiMax) {
     presence--;
     dernierPassageInterieur = 0;
