@@ -6,15 +6,15 @@ J'ai formé mon groupe avec Antoine Menez et Léo David (incroyables collaborate
 
 * Semaine 2:
 
-Lors de cette semaine j'ai récupéré les informations nécessaires pour commencer à faire un planning de notre projet en plus de travailler sur le premier PowerPoint pour la présentation de semi-semestre.
+Lors de cette semaine j'ai récupéré les informations nécessaires pour commencer à faire un planning de notre projet en plus de travailler sur notre premier PowerPoint pour la présentation de semi-semestre.
 
 * Semaine 3:
 
-Nous passons la présentation de semi-semestre et j'aide mon camarade Léo sur le code pour établir un algorithme et le retranscrire sous forme de code.
+Nous passons la présentation de semi-semestre et j'aide mon camarade Léo pour établir un algorithme et le retranscrire sous forme de code.
 
 * Semaine 4:
 
-Je récolte toutes les données utilisées pour commencer notre GitHub.
+Je récolte toutes les données utilisées pour commencer notre GitHub et je finalise le PowerPoint pour notre présentation finale.
 
 * Semaine 5:
 
